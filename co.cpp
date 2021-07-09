@@ -5,7 +5,7 @@ int main()
  //   ios_base::sync_with_studio(false);
   //  cin.tie(NULL);
    // cout.tie(NULL);
-    long int t;
+     int t;
     cin>>t;
     while(t--)
 	{
