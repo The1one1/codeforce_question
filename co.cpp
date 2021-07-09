@@ -5,7 +5,7 @@ int main()
  //   ios_base::sync_with_studio(false);
   //  cin.tie(NULL);
    // cout.tie(NULL);
-    long int t;
+     int t;
     cin>>t;
     while(t--)
 	{
@@ -24,6 +24,6 @@ int main()
 	      x1=x/n; 
 	  }
             
-    cout<<m*(y1+1)+x1<<"\n";
+    cout<<m*(y1)+x1<<"\n";
     }
 }
